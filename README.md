@@ -5,9 +5,9 @@
 Sou estudante de **Ciência de Dados e Inteligência Artificial** no SENAI CIMATEC e atuo como Pesquisador Bolsista em **Cibersegurança (Blue Team)**. Tenho forte interesse em aliar o desenvolvimento de sistemas robustos à segurança da informação e inteligência de dados, buscando sempre resolver problemas complexos corporativos.
 
 ### O que eu faço:
-- 🔒 **Segurança:** Gerenciamento de vulnerabilidades, análise de incidentes de infraestrutura corporativa e gestão de ativos.
-- 💻 **Desenvolvimento:** Construção de APIs seguras em Java (Spring Boot) e prototipagem de hardware de baixo nível (C/C++).
-- 📈 **Dados & IA:** Modelagem e análise de dados focada em eficiência de negócios e mitigação de riscos cibernéticos.
+-  **Segurança:** Gerenciamento de vulnerabilidades, análise de incidentes de infraestrutura corporativa e gestão de ativos.
+-  **Desenvolvimento:** Construção de APIs seguras em Java (Spring Boot) e prototipagem de hardware de baixo nível (C/C++).
+-  **Dados & IA:** Modelagem e análise de dados focada em eficiência de negócios e mitigação de riscos cibernéticos.
 
 ### Tecnologias e Ferramentas:
 <div style="display: inline-block"><br>
