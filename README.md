@@ -16,7 +16,6 @@ Sou estudante de **Ciência de Dados e Inteligência Artificial** no SENAI CIMAT
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
 ---
