@@ -2,7 +2,7 @@
 
 ### Cibersegurança (Blue Team) | Ciência de Dados e IA | Desenvolvedor Java / Spring Boot
 
-Sou estudante de **Ciência de Dados e Inteligência Artificial** no SENAI CIMATEC e atuo como Pesquisador Bolsista em **Cibersegurança (Blue Team)**. Tenho forte interesse em aliar o desenvolvimento de sistemas robustos à segurança da informação e inteligência de dados, buscando sempre resolver problemas complexos corporativos.
+Sou estudante de **Ciência de Dados e Inteligência Artificial** no SENAI CIMATEC e atuo como Pesquisador Bolsista em **Cibersegurança (Blue Team)**, além de possuir Técnico em Análise e Desenvolvimento de Sistemas. Tenho forte interesse em aliar o desenvolvimento de sistemas robustos à segurança da informação e inteligência de dados, buscando sempre resolver problemas complexos corporativos.
 
 ### O que eu faço:
 -  **Segurança:** Gerenciamento de vulnerabilidades, análise de incidentes de infraestrutura corporativa e gestão de ativos.
