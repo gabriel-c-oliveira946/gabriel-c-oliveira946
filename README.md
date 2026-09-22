@@ -25,9 +25,9 @@ Sou estudante de **Ciência de Dados e Inteligência Artificial** no SENAI CIMAT
 ---
 
 ### Projetos em Destaque:
-* **[Sistema de Estoque Inteligente](link-do-seu-repositorio):** API robusta em Java 17 e Spring Boot focada em regras de negócio, com implementação de exclusão lógica (soft delete) e trilha de auditoria automatizada.
-* **[VersusHub - Plataforma de E-Sports](link-do-seu-repositorio):** Aplicação Full-Stack para gestão de torneios, estruturada com JavaScript Vanilla, HTML5, CSS3, Vercel e banco relacional via Supabase (PostgreSQL).
-* **[Cofre Inteligente (Prototipagem)](link-do-seu-repositorio):** Sistema de segurança embarcado unindo lógica de baixo nível em C/C++ e componentes físicos via Arduino.
+* **[Sistema de Estoque Inteligente](https://github.com/gabriel-c-oliveira946/Sistema-de-Estoque-Inteligente):** API robusta em Java 17 e Spring Boot focada em regras de negócio, com implementação de exclusão lógica (soft delete) e trilha de auditoria automatizada.
+* **[VersusHub - Plataforma de E-Sports](https://github.com/gabriel-c-oliveira946/Versus-Hub-Repository):** Aplicação Full-Stack para gestão de torneios, estruturada com JavaScript Vanilla, HTML5, CSS3, Vercel e banco relacional via Supabase (PostgreSQL).
+* **[Cofre Inteligente (Prototipagem)](https://github.com/gabriel-c-oliveira946/cofre-inteligente-arduino):** Sistema de segurança embarcado unindo lógica de baixo nível em C/C++ e componentes físicos via Arduino.
 
 ---
 
